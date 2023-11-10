@@ -5,7 +5,7 @@
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/ma4rc312/Portafolio-marce-dev/blob/master/picture.PNG"></img>
+    <img src="https://github.com/ma4rc312/Portafolio-marce-dev/blob/main/picture.PNG"></img>
   </kbd>
 </p>
 
