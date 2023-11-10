@@ -1,11 +1,12 @@
 <h1 align="center">Welcome to portfolio of marce 👋</h1>
-<a href="https://github.com/ma4rc312/Portafolio-marce-dev/blob/main/LICENSE"><img alt="GitHub license" src="https://github.com/ma4rc312/Portafolio-marce-dev"></a><a href="https://github.com/ma4rc312/Portafolio-marce-dev/issues"><img alt="GitHub issues"></a><a href="https://github.com/ma4rc312/Portafolio-marce-dev/network"><img alt="GitHub forks"></a> <a href="https://github.com/ma4rc312/Portafolio-marce-dev/stargazers"><img alt="GitHub stars"></a>
+<a href="https://github.com/ma4rc312/Portafolio-marce-dev/blob/main/LICENSE"><img alt="GitHub license" src="https://github.com/ma4rc312/Portafolio-marce-dev"></a><a href="https://github.com/ma4rc312/Portafolio-marce-dev/issues"> <a href="https://github.com/ma4rc312/Portafolio-marce-dev/stargazers"><img alt="GitHub stars"></a>
 
 ## Software Developer Portfolio Template built with Next.js, bootstrap that helps you showcase your work and skills as a software developer.
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/ma4rc312/Portafolio-marce-dev/blob/master/picture.PNG"></img>
+![Captura de pantalla 2023-11-09 220649](https://github.com/ma4rc312/Portafolio-marce-dev/assets/92341844/b7868952-5929-4493-91b8-b04cf7a83ebd)
+
   </kbd>
 </p>
 
