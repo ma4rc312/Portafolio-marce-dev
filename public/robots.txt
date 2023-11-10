@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /*
+Host: ma4rc312/Portafolio-marce-dev.vercel.app
