@@ -6,8 +6,6 @@
 ![Captura de pantalla 2023-11-09 220649](https://github.com/ma4rc312/Portafolio-marce-dev/assets/92341844/32f4c6a1-92bd-415d-960f-d67a7ecfec4e)
 
 
-## To view a live example, **[click here](https://github.com/ma4rc312/Portafolio-marce-dev.vercel.app/)**.
-
 Just Edit `portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
 
 But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/ma4rc312/Portafolio-marce-dev/issues).
