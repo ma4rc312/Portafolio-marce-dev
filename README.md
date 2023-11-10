@@ -3,12 +3,8 @@
 
 ## Software Developer Portfolio Template built with Next.js, bootstrap that helps you showcase your work and skills as a software developer.
 
-<p align="center">
-  <kbd>
-![Captura de pantalla 2023-11-09 220649](https://github.com/ma4rc312/Portafolio-marce-dev/assets/92341844/b7868952-5929-4493-91b8-b04cf7a83ebd)
+![Captura de pantalla 2023-11-09 220649](https://github.com/ma4rc312/Portafolio-marce-dev/assets/92341844/32f4c6a1-92bd-415d-960f-d67a7ecfec4e)
 
-  </kbd>
-</p>
 
 ## To view a live example, **[click here](https://github.com/ma4rc312/Portafolio-marce-dev.vercel.app/)**.
 
