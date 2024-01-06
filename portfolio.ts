@@ -319,10 +319,9 @@ export const showContactUs: boolean = true;
 export const seoData: SEODataType = {
   title: 'Marce Lucio',
   description:
-    'A passionate Full Stack Web Developer and Blockchain Developer.',
+    'I am a passionate Full Stack web developer with experience in web applications with Laravel, Angular, React.js, Next.js, Android with Java, Kotlin and web security in a Linux environment.',
   author: 'Marce Lucio',
-  image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
-  // url: 'https://developer-portfolio-1hanzla100.vercel.app',
+  image: 'https://avatars.githubusercontent.com/u/92341844?s=400&u=b1966926c4bc5180a5b89662f8ac8882cbee2626&v=4',
   keywords: [
     'Marce Lucio',
     'Portfolio',
